@@ -7,7 +7,7 @@
 
 <!-- Trophy Section -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Parveshiiii&no-bg=true&no-frame=true&column=6&row=1&margin-w=10&theme=matrix" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=OE-Void&no-bg=true&no-frame=true&column=6&row=1&margin-w=10&theme=matrix" alt="Trophies" />
 </p>
 
 <h2 align="center"><b>〔 AI/ML Engineer • Systems Architect • Linux & Windows Power User 〕</b></h2>
@@ -15,8 +15,8 @@
 
 <!-- Badges -->
 <p align="center">
-  <img alt="Followers" src="https://img.shields.io/github/followers/Parveshiiii?color=36ba01&label=Followers&logo=github&style=for-the-badge">
-  <img alt="Stars" src="https://img.shields.io/github/stars/Parveshiiii?color=36ba01&label=Stars&logo=github&style=for-the-badge">
+  <img alt="Followers" src="https://img.shields.io/github/followers/OE-Void?color=36ba01&label=Followers&logo=github&style=for-the-badge">
+  <img alt="Stars" src="https://img.shields.io/github/stars/OE-Void?color=36ba01&label=Stars&logo=github&style=for-the-badge">
 </p>
 
 ---
@@ -31,13 +31,13 @@
 
 <!-- Social -->
 <div align="center">
-  <a href="https://www.instagram.com/parveshiiii.dev/">
+  <a href="https://www.instagram.com/OE-Void.dev/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://t.me/">
     <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://x.com/Parveshiiii">
+  <a href="https://x.com/OE-Void">
     <img src="https://img.shields.io/badge/X%20(Twitter)-000000.svg?&style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/parvesh-rawal/">
@@ -50,7 +50,7 @@
 <!-- Streak Stats -->
 <h3 align="center">🔥 Streak Stats</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Parveshiiii&theme=highcontrast&hide_border=true&border_radius=10&mode=weekly" />
+  <img src="https://streak-stats.demolab.com?user=OE-Void&theme=highcontrast&hide_border=true&border_radius=10&mode=weekly" />
 </p>
 
 ---
@@ -59,7 +59,7 @@
 <!-- Contributions -->
 <h3 align="center">📈 Total Contributions</h3>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parveshiiii&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OE-Void&theme=github_dark" />
 </p>
 
 ---
